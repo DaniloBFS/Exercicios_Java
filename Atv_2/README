@@ -1,0 +1,2 @@
+A proposta desse exercicio é de criar classes separadas para um unico componente. 
+Sabendo que os perifericos do computador são filhos do mesmo, então, temos o conceito de herança.
